@@ -29,4 +29,4 @@ This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENS
 Your Name - [Your Email](mailto:your-email@example.com)
 
 ## Acknowledgements
-Resources or contributors.
+Resources or contributors.n
